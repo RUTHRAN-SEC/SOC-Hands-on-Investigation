@@ -1,5 +1,5 @@
 # SOC-Hands-on-Investigation and Challenges 
-SOC / DFIR CTF investigations portfolio with 40+ hands-on lab cases covering SIEM alert triage, Phishing Analysis, Malware analysis, Endpoint detection, Network Analysis. Built to demonstrate practical SOC Analyst L1/L2 and DFIR skills.
+SOC / DFIR CTF investigations portfolio with hands on lab cases covering SIEM alert triage, Phishing Analysis, Malware analysis, Endpoint detection, Network Analysis. Built to demonstrate practical SOC Analyst L1/L2 and DFIR skills.
 
 ## SOC Investigations Portfolio
 This repository contains 40+ hands-on SOC investigations performed in a simulated and lab-based environment.Also completed different types of CTF Challenges form Various platform like TryHackme,BlueTeam Lab Online 
