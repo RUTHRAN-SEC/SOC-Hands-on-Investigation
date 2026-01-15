@@ -461,3 +461,5 @@ We know that attacker is in Tempest Computer system we filter the executable fie
 <img width="957" height="266" alt="Screenshot 2026-01-11 192915" src="https://github.com/user-attachments/assets/97f4ee1e-a31e-450a-86c5-1b2d655021e5" />
 
 Answer: C:\Windows\system32\sc.exe \\TEMPEST create TempestUpdate2 binpath= C:\ProgramData\final.exe start= auto
+
+### Done By Ruthran-sec
