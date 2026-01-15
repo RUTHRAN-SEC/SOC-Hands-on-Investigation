@@ -81,3 +81,5 @@ Using URL2PNG Tool to capture the screen shot of that site
 <img width="960" height="476" alt="Screenshot 2026-01-15 184521" src="https://github.com/user-attachments/assets/6fbab359-26ec-4062-8c0e-ce6dd15e82fb" />
 
 Answer: Blog has been removed
+
+### Done By Ruthran-sec
