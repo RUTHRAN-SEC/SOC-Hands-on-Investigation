@@ -127,3 +127,5 @@ View CommandLine that was the URL infected host connected to
 <img width="608" height="383" alt="Screenshot 2026-01-08 225743" src="https://github.com/user-attachments/assets/3bb18ae4-4f25-458e-a944-5ece71ec6327" />
 
 Answer: https://controlc.com/e4d11035
+
+### Done By Ruthran-sec
