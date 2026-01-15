@@ -97,3 +97,5 @@ Searched with “RDP”
 <img width="380" height="163" alt="Screenshot 2026-01-15 131712" src="https://github.com/user-attachments/assets/2f634c09-01d3-480a-bd0a-b68c2d23c313" />
 
 Answer: MFA
+
+### Done By Ruthran-sec
