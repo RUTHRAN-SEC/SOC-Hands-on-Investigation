@@ -171,3 +171,6 @@ using cyberchef to output as a .kdbx after decode form hex. Used keepass to open
 <img width="643" height="451" alt="Screenshot 2026-01-12 120233" src="https://github.com/user-attachments/assets/429aeb29-83b5-49a3-a0ad-4abf40ccfe05" />
 
 Answer: 4024007128269551
+
+### Done By Ruthran-sec
+
