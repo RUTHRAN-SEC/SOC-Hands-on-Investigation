@@ -162,3 +162,6 @@ Answer: backupda
 <img width="951" height="402" alt="Screenshot 2026-01-14 220305" src="https://github.com/user-attachments/assets/93378f1f-fd31-4ca0-a2b0-353bf9181f0e" />
 
 Answer: http://ff.sillytechninja.io/ransomboogey.exe
+
+### Done By Ruthran-sec
+
